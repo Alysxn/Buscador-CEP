@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">Buscador CEP</h1>
+      <h1 className="title">Busca CEP</h1>
 
       <div className="containerInput">
 
