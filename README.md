@@ -19,9 +19,3 @@ Este projeto é um site de busca de CEPs, desenvolvido utilizando **HTML**, **CS
 - **CSS3**
 - **React**
 - **API RESTful**
-
-## 🛠️ Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/busca-de-cep.git
