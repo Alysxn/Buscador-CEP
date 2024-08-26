@@ -3,7 +3,9 @@
 Bem-vindo ao repositório do **Busca de CEP**! 🚀
 
 Este projeto é um site de busca de CEPs, desenvolvido utilizando **HTML**, **CSS** e **React**. Ele consome uma API RESTful para fornecer informações precisas e rápidas sobre os CEPs pesquisados. Com uma interface intuitiva e amigável, este site facilita a busca por endereços completos a partir de um CEP específico.
-<a href:"https://alysxn.github.io/Buscador-CEP"/> Clique aqui. </>
+
+<a href="https://alysxn.github.io/Buscador-CEP/">Clique aqui para entrar no site!</a>
+
 ## ✨ Funcionalidades
 
 - **Busca Rápida:** Obtenha informações completas sobre o endereço com base no CEP.
