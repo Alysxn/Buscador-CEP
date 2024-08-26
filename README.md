@@ -6,6 +6,10 @@ Este projeto é um site de busca de CEPs, desenvolvido utilizando **HTML**, **CS
 
 <a href="https://alysxn.github.io/Buscador-CEP/">Clique aqui para entrar no site!</a>
 
+## Imagens do Projeto
+
+![Visualização do site](public/bcep.png)
+
 ## ✨ Funcionalidades
 
 - **Busca Rápida:** Obtenha informações completas sobre o endereço com base no CEP.
